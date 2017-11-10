@@ -1,0 +1,12 @@
+D:\dev-project\kho17\kho17\bin\Debug\kho17.exe
+D:\dev-project\kho17\kho17\bin\Debug\kho17.pdb
+D:\dev-project\kho17\kho17\obj\Debug\kho17.csprojResolveAssemblyReference.cache
+D:\dev-project\kho17\kho17\obj\Debug\kho17.Form1.resources
+D:\dev-project\kho17\kho17\obj\Debug\kho17.Properties.Resources.resources
+D:\dev-project\kho17\kho17\obj\Debug\kho17.csproj.GenerateResource.Cache
+D:\dev-project\kho17\kho17\obj\Debug\kho17.exe.licenses
+D:\dev-project\kho17\kho17\obj\Debug\kho17.exe
+D:\dev-project\kho17\kho17\obj\Debug\kho17.pdb
+D:\dev-project\kho17\kho17\obj\Debug\kho17.fNhapHang.resources
+D:\dev-project\kho17\kho17\obj\Debug\kho17.fXuatHang.resources
+D:\dev-project\kho17\kho17\obj\Debug\kho17.fKhoHang.resources
